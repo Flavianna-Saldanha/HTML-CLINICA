@@ -1,4 +1,4 @@
-#Clínica Veterinária#
+#Clínica Veterinária
 
 
 Este é um projeto HTML básico para o site de uma clínica veterinária. Ele oferece uma estrutura simples para apresentar informações essenciais sobre a clínica, seus serviços e equipe.
