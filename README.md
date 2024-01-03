@@ -15,7 +15,8 @@ Este é um projeto HTML básico para o site de uma clínica veterinária. Ele of
 # Funcionalidades
 
 
-Seções do Site
+**Seções do Site**
+
 **Página Inicial**: Apresenta uma breve descrição sobre a clínica veterinária.
 
 **Sobre**: Apresenta um texto falando sobre a clínica.
