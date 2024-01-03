@@ -1,9 +1,9 @@
-#Clínica Veterinária
+# Clínica Veterinária
 
 
 Este é um projeto HTML básico para o site de uma clínica veterinária. Ele oferece uma estrutura simples para apresentar informações essenciais sobre a clínica, seus serviços e equipe.
 
-#Estrutura do Projeto
+# Estrutura do Projeto
 
 
 **contato.html, horario.html, paginaInicial.html, sobre.html**: São os arquivos principais que contém a estrutura HTML do site.
@@ -12,7 +12,7 @@ Este é um projeto HTML básico para o site de uma clínica veterinária. Ele of
 
 **imgs**: Pasta para armazenar imagens usadas no site.
 
-#Funcionalidades
+# Funcionalidades
 
 
 Seções do Site
@@ -24,7 +24,7 @@ Seções do Site
 
 **Contato**: Fornece informações de contato, como telefone, endereço e e-mail.
 
-#Autor
+# Autor
 
 
 Este projeto foi desenvolvido por **Flavianna Saldanha**.
