@@ -1,0 +1,157 @@
+html, body {
+    margin: 0;
+    background-color:#202024;
+
+}
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    width: 1200PX;
+    display: flex;
+    margin: 0 auto;
+    background-color: rgb(46, 62, 77);
+}
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+}
+.menu {
+    max-width: 350px;
+    width: 100%;
+    background-color:#202024;
+    padding: 10px 20px 0px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    border-bottom: 1px solid rgb(222, 228, 235);
+    ;
+}
+
+
+nav ul li a {
+    background-color: rgb(46, 62, 77);
+    color: white;
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    transition: background .3s;
+}
+
+nav ul li a:hover{
+    background-color: #E0E0F8;
+    color: rgb(46, 62, 77);
+}
+
+.header {
+    min-height: 150px;
+}
+.content {
+    background-color: #E0E0F8;
+    background-size: cover;
+
+    min-height: 300px;
+    padding: 20px;
+    color: black;
+}
+.footer {
+    background-color:#202024;
+    text-align: center;
+    color: white;
+}
+
+.imagem {
+    display: block;
+    width: 986px;
+    height: 308px;
+}
+
+table, th, td {
+    margin-left: 250px;
+    margin-top: 30px;
+    padding: 2px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    color: black;
+}
+
+th {
+    background-color: black;
+    color: whitesmoke
+}
+
+td {
+    background-color: azure;
+}
+
+.gmap_canvas, .entreEmContato {
+    margin-left: 250px;
+    margin-top: 30px;
+}
+
+.formulario {
+    background-color: #202024;
+    text-align: center;
+    float: left;
+}
+
+.fContato {
+    text-align: center;
+    background-color: #202024;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+#titulo {
+    font-family: sans-serif;
+    color: white;
+}
+
+input, textarea, button {
+    border-radius: 5px;
+}
+
+.formulario label {
+    margin-bottom: 0.2em;
+    display: block;
+    color: white;
+}
+
+.formulario input[type="text"], .formulario input[type="email"], .formulario input[type="textarea"] {
+    padding: 0.2em;
+    border: 1px solid #59429d;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+}
+
+.formulario input:focus, .formulario textarea:focus {
+    background: #E0E0F8;
+}
+
+.botao {
+    font-size: 1.2em;
+    background: #59429d;
+    border: 0;
+    margin-bottom: 1em;
+    color: #ffffff;
+    padding: 0.2em 0.6em;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+.botao:hover {
+    background: #ccbbff;
+    box-shadow: inset 2px 2px 2px rgba(0, 0, 0, 0.2);
+    text-shadow: none;
+}
+
+
+
